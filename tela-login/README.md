@@ -1,16 +1,49 @@
-# React + Vite
+# 🔐 Tela de Login - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto desenvolvido em React utilizando Vite para criação de uma interface de login simples.
 
-Currently, two official plugins are available:
+## 📋 Sobre o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+A aplicação apresenta uma tela de login onde o usuário pode informar suas credenciais por meio de um formulário.
 
-## React Compiler
+O objetivo é praticar conceitos fundamentais de desenvolvimento front-end com React, como componentes, formulários, eventos e organização de uma aplicação web.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Tecnologias utilizadas
 
-## Expanding the ESLint configuration
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- Node.js
+- npm
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Como executar
+
+Clone o repositório e entre na pasta do projeto.
+
+Instale as dependências:
+
+npm install
+
+Execute a aplicação:
+
+npm run dev
+
+Depois, acesse no navegador o endereço informado pelo Vite no terminal.
+
+## 🎯 Funcionalidades
+
+- Tela de login
+- Campo de usuário/e-mail
+- Campo de senha
+- Botão de login
+- Interface desenvolvida com React
+
+## 📚 Objetivo
+
+Projeto desenvolvido para prática dos conceitos de desenvolvimento web utilizando React.
+
+## 👨‍💻 Autor
+
+Ricardo Melo
