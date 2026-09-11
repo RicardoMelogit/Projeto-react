@@ -1,0 +1,9 @@
+/* Configuração básica da página */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: white;
+}

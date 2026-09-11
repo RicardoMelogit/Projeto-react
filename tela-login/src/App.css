@@ -1,0 +1,36 @@
+/* Container principal da tela */
+.container {
+  width: 300px;
+  margin: 50px auto;
+  font-family: Arial, sans-serif;
+}
+
+.container h1 {
+  margin-bottom: 20px;
+}
+
+/* Organiza os campos do formulário */
+.formulario {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* Estilo dos campos de email e senha */
+.formulario input {
+  padding: 8px;
+  font-size: 16px;
+}
+
+/* Estilo do botão */
+.formulario button {
+  width: 100px;
+  padding: 8px;
+  cursor: pointer;
+}
+
+/* Mensagem mostrada depois do login */
+.formulario p {
+  margin-top: 15px;
+  font-size: 18px;
+}
